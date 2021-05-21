@@ -29,7 +29,7 @@
   - Grid Search
   - Randomized Search - Combat combinatorial explosion
   - Ensemble Methods
-  
+
 ## Exercises
 
 ### SVM
@@ -37,7 +37,7 @@
 
 ## Questions
 
-### Level 1
+### Level 1: Beginner
 
 - What is a feature?
 - Explain correlation
