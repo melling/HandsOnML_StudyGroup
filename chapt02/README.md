@@ -11,13 +11,29 @@
   - 
 - Data Wrangling
   - Imputation
+- Pipelines
+  - Transformations
 - Performance Measures
   - RMSE
   - MAE
-- Linear Regression
-  - correlation coefficient
-  - correlation matrix
-- Pipelines
+- Models  
+  - Linear Regression
+    - correlation coefficient
+    - correlation matrix
+  - Cross Validation
+    - K-fold cross-validation
+  - Decision Tree
+  - Random Forests
+    - Combine many decision trees
+- Fine-Tune Models
+  - Grid Search
+  - Randomized Search - Combat combinatorial explosion
+  - Ensemble Methods
+  
+## Exercises
+
+### SVM
+
 
 ## Questions
 
