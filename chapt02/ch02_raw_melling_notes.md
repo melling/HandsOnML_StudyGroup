@@ -8,6 +8,8 @@ https://github.com/ageron/handson-ml2
 
 https://raw.githubusercontent.com/ageron/handson-ml2/master/datasets/housing/housing.csv
 
+https://colab.research.google.com/drive/1VTonajo-MVO-sB4A7jwxtOXxcYIuLhDR#scrollTo=R3EBDAUgo_L2
+
 
 
 Chapter 2: End-to-End Machine Learning Project
