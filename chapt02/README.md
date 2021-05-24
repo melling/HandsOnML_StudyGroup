@@ -1,5 +1,7 @@
 # Chapter 2: End-to-End Machine Learning Project
 
+[Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb)
+
 ## Topics Covered
 
 - Python
@@ -43,16 +45,19 @@
 - Explain correlation
 - What is a test set?
 
-### Level 2
+### Level 2: Intermediate
 
 - What is imputation?
-- Describe GridSearch
 - Describe Cross-Validation
 - Describe Categorical Attributes
 - One-Hot Encoder
 - Transformation Pipelines
 - What is Feature Scaling?  Why do we need it?
-  - Name one ML method where it does not help.
+
+### Level 3: Master
+
+- Describe GridSearch
+- Name one ML method where feature scaling does not help.
 
 ## Misc
 

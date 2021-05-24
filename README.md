@@ -23,3 +23,4 @@ Self-paced and self-study is encouraged.  We meet regularly to discuss the mater
 
 - [Chapter02](chapt02/README.md)
 - [Chapter03](chapt03/README.md)
+- [Chapter04](chapt04/README.md)
