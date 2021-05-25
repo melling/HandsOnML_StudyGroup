@@ -42,6 +42,28 @@
 
 [Answer](q_4_3_ans.md)
 
+### Q4.4 Do all Gradient Descent algorithms lead to the same model, provided you let them run long enough
+
+### Q4.5 Suppose you use Batch Gradient Descent and you plot the validation error at every epoch. If you notice that the validation error consistently goes up, what is likely going on? How can you fix this?
+
+### Q4.6 Is it a good idea to stop Mini-batch Gradient Descent immediately when the validation error goes up?
+
+### Q4.7 Which Gradient Descent algorithm (among those we discussed) will reach the vicinity of the optimal solution the fastest? Which will actually converge? How can you make the others converge as well?
+
+### Q4.8 Suppose you are using Polynomial Regression. You plot the learning curves and you notice that there is a large gap between the training error and the validation error. What is happening? What are three ways to solve this?
+
+### Q4.9 Suppose you are using Ridge Regression and you notice that the training error and the validation error are almost equal and fairly high. Would you say that the model suffers from high bias or high variance? Should you increase the regularization hyperparameter α or reduce it?
+
+### Q4.10 Why would you want to use:
+ - a. Ridge Regression instead of plain Linear Regression (i.e., without any regularization)?
+ - b. Lasso instead of Ridge Regression?
+ - c. Elastic Net instead of Lasso?
+
+
+### Q4.11 Suppose you want to classify pictures as outdoor/indoor and daytime/nighttime. Should you implement two Logistic Regression classifiers or one Softmax Regression classifier?
+
+### Q4.12 Implement Batch Gradient Descent with early stopping for Softmax Regression (without using Scikit-Learn).
+
 
 ## Questions
 
