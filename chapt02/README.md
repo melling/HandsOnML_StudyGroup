@@ -4,6 +4,10 @@
 
 ## Topics Covered
 
+Scaling
+MinMax Scaling
+Mean Scaling
+
 - Python
   - Pandas
   - numpy
