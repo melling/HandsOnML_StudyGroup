@@ -15,6 +15,7 @@
   - Still a linear model
 - Learning Curves
 - Regularized Linear Models
+  - Reduces overfitting
   - Ridge Regression
     - L2 Norm
   - Lasso Regression
@@ -36,6 +37,5 @@
 ### Level 2: Intermediate
 
 - If the model keeps underfitting the data, what should you do?
-
 
 ### Level 3: Master
