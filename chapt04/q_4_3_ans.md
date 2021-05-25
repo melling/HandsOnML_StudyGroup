@@ -1,6 +1,6 @@
 # Q4.3 Can Gradient Descent get stuck in a local minimum when training a Logistic Regression model?
 
-Guaranteed to find the global minimum.  
+Will not get stuck because we are guaranteed to find the global minimum.  
 
 Cost function J(\theta) is convex
 
