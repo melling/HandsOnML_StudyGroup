@@ -44,7 +44,11 @@
 
 ### Q4.4 Do all Gradient Descent algorithms lead to the same model, provided you let them run long enough
 
+[Answer](q_4_4_ans.md)
+
 ### Q4.5 Suppose you use Batch Gradient Descent and you plot the validation error at every epoch. If you notice that the validation error consistently goes up, what is likely going on? How can you fix this?
+
+[Answer](q_4_5_ans.md)
 
 ### Q4.6 Is it a good idea to stop Mini-batch Gradient Descent immediately when the validation error goes up?
 
