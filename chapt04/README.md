@@ -59,9 +59,10 @@
 ### Q4.9 Suppose you are using Ridge Regression and you notice that the training error and the validation error are almost equal and fairly high. Would you say that the model suffers from high bias or high variance? Should you increase the regularization hyperparameter α or reduce it?
 
 ### Q4.10 Why would you want to use:
- - a. Ridge Regression instead of plain Linear Regression (i.e., without any regularization)?
- - b. Lasso instead of Ridge Regression?
- - c. Elastic Net instead of Lasso?
+
+- a. Ridge Regression instead of plain Linear Regression (i.e., without any regularization)?
+- b. Lasso instead of Ridge Regression?
+- c. Elastic Net instead of Lasso?
 
 
 ### Q4.11 Suppose you want to classify pictures as outdoor/indoor and daytime/nighttime. Should you implement two Logistic Regression classifiers or one Softmax Regression classifier?
