@@ -78,7 +78,7 @@
 
 [Answer](q_4_11_ans.md)
 
-### Q4.12 Implement Batch Gradient Descent with early stopping for Softmax Regression (without using Scikit-Learn)
+### Q4.12 Implement Batch Gradient Descent with early stopping for Softmax Regression (without using Scikit-Learn).
 
 To be implemented individually.
 
