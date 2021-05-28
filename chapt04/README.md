@@ -26,7 +26,7 @@
   - Training and Cost Function
   - Decision Boundaries
   - Softmax Regression
-  - Cross entropy
+  - [Cross entropy](notes/cross_entropy.md)
 
 ## Book Questions (p212)
 
