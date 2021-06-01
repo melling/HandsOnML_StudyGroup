@@ -49,3 +49,6 @@ the same model.
 
 10. Train an SVM regressor on the California housing dataset.
 
+## References
+
+- [Stat Quest - Support Vector Machines](https://youtu.be/efR1C6CvhmE)
