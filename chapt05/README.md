@@ -51,4 +51,6 @@ the same model.
 
 ## References
 
-- [Stat Quest - Support Vector Machines](https://youtu.be/efR1C6CvhmE)
+- [Stat Quest - Part 1: Support Vector Machines](https://youtu.be/efR1C6CvhmE)
+- [Stat Quest - Part 2: The Polynomial Kernel](https://www.youtube.com/watch?v=Toet3EiSFcM&t=0s)
+- [Stat Quest - Part 3: The Radial (RBF) Kernel](https://www.youtube.com/watch?v=Qc5IyLW_hns&t=0s)
