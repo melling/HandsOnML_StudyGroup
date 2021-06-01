@@ -21,6 +21,7 @@ Self-paced and self-study is encouraged.  We meet regularly to discuss the mater
 
 ## Group Notes, Notebooks, Exercises, etc
 
-- [Chapter02](chapt02/README.md)
-- [Chapter03](chapt03/README.md)
-- [Chapter04](chapt04/README.md)
+- [Chapter02 - End-to-End Machine Learning Project](chapt02/README.md)
+- [Chapter03 - Classification](chapt03/README.md)
+- [Chapter04 - Training Models](chapt04/README.md)
+- [Chapter05 - Support Vector Machines](chapt05/README.md)
