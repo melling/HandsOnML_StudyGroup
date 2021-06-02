@@ -4,10 +4,27 @@
 
 ## Topics Covered
 
+- Linear SVM Classification
+  - Soft Margin Classification
+- Nonlinear SVM Classification
+  - Polynomial Kernel
+  - Similarity Features
+  - Gaussian RBF Kernel
+- Computational Complexity  
+- SVM Regression
+  - Decision Function and Predictions
+  - Training Objective
+  - Quadratic Programming
+  - The Dual Problem
+  - The Kernel Trick
+- Kernelized SVMs
+- Mercer’s theorem
+- Online SVMs
+- Hinge loss
 
 ## Book Questions (p212)
 
-### Q5.1 What is the fundamental idea behind Support Vector Machines? 
+### Q5.1 What is the fundamental idea behind Support Vector Machines?
 
 [Answer](q_5_1_ans.md)
 
