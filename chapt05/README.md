@@ -32,11 +32,25 @@ No, no.
 
 5. Should you use the primal or the dual form of the SVM problem to train a model on a training set with millions of instances and hundreds of features?
 
+Use Primal. p230
 
-6. Say you’ve trained an SVM classifier with an RBF kernel, but it seems to underfit the training set. Should you increase or decrease γ ( )? What about ?
+Dual Form is better when training is smaller than the number of features.
+
+Answer: p916
+
+6. Say you’ve trained an SVM classifier with an RBF kernel, but it seems to underfit the training set. Should you increase or decrease γ ( )? What about C?
+
+p223
+
+increasing Gamma increases regularization
+
+regularization in the left plot (i.e., a large value
+more regularization in the right plot (i.e., a small value
 
 
 7. How should you set the QP parameters (H, f, A, and b) to solve the soft margin linear SVM classifier problem using an off-the-shelf QP solver?
+
+p230
 
 
 8. Train a on a linearly separable dataset. Then train an and a
