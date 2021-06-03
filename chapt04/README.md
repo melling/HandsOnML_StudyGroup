@@ -2,6 +2,11 @@
 
 [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb)
 
+## Study Group Notebooks
+
+- [Taraqur](https://colab.research.google.com/drive/1T9HshmZoh3JjlNDy3U3z5cf73-V9KOQU)
+
+
 ## Topics Covered
 
 - Linear Regression

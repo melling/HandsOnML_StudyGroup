@@ -2,6 +2,10 @@
 
 [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/05_support_vector_machines.ipynb)
 
+## Study Group Notebooks
+
+- [Taraqur](https://colab.research.google.com/drive/1WMOYwa2GhspBRzE2mZShjzsG9oV63x8a)
+
 ## Topics Covered
 
 - Linear SVM Classification

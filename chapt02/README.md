@@ -2,6 +2,11 @@
 
 [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb)
 
+## Study Group Notebooks
+
+- [Taraqur](https://colab.research.google.com/drive/1VTonajo-MVO-sB4A7jwxtOXxcYIuLhDR)
+- [Taraqur Exercises](https://colab.research.google.com/drive/1jzTOuvfarWqBeebAN5rubqQhUQexF6uJ)
+
 ## Topics Covered
 
 Scaling
