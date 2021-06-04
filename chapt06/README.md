@@ -1,5 +1,8 @@
 # Chapter 6: Decision Trees
 
+- [StatQuest Classification Tree video](https://youtu.be/_L39rN6gz7Y)
+- [StatQuest Regression Tree video](https://youtu.be/g9c66TUylZ4)
+
 ## Book Questions
 
 ### 1. What is the approximate depth of a Decision Tree trained (without restrictions) on a training set with one million instances?
