@@ -1,6 +1,6 @@
 # Q6.2. Is a node’s Gini impurity generally lower or greater than its parent’s? Is it generally lower/greater, or always lower/greater?
 
-See Stat Quest video
+[See Stat Quest video](https://youtu.be/_L39rN6gz7Y)
 
 Gini index
 
@@ -8,4 +8,4 @@ Gini index
 
 Generally, it should be lower.  In other words, more pure. Gini 0 = pure
 
-Book Answer: p918 
+Book Answer: p918
