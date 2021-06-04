@@ -25,3 +25,4 @@ Self-paced and self-study is encouraged.  We meet regularly to discuss the mater
 - [Chapter03 - Classification](chapt03/README.md)
 - [Chapter04 - Training Models](chapt04/README.md)
 - [Chapter05 - Support Vector Machines](chapt05/README.md)
+- [Chapter06 - Decision Trees](chapt06/README.md)
