@@ -2,6 +2,6 @@
 
 p247
 
-log2(1,000,000)
+log2(1,000,000) = 20 # Approx
 
 Book Answer: p918

@@ -4,4 +4,6 @@ Reference: p242
 
 Too much training so it slows it down considerably.
 
+Sorting is only good for up to a few thousand training examples.
+
 Book Answer: p918
