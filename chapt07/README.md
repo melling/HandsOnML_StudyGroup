@@ -19,7 +19,7 @@
 
 ## Book Questions
 
-### Q1 If you have trained five different models on the exact same training data, and they all achieve 95% precision, is there any chance that you can combine these models to get better results? If so, how? If not, why?
+### Q7.1 If you have trained five different models on the exact same training data, and they all achieve 95% precision, is there any chance that you can combine these models to get better results? If so, how? If not, why?
 
 [Answer](q_7_1_ans.md)
 
