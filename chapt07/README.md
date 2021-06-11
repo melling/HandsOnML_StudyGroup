@@ -2,6 +2,19 @@
 
 ## Topics Covered
 
+- Voting Classifiers
+  - Soft Voting
+  - Hard Voting
+- Bagging and Pasting
+- Out-of-Bag Evaluation
+- Random Patches and Random Subspaces
+- Random Forests
+  - Feature Importance
+- Boosting
+  - AdaBoost
+  - Gradient Boosting
+- Stacking
+
 ## Study Group Notebooks
 
 ## Book Questions
