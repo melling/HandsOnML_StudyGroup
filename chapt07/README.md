@@ -1,4 +1,4 @@
-# Chapter 8: Ensemble Learning and Random Forests
+# Chapter 7: Ensemble Learning and Random Forests
 
 ## Topics Covered
 
