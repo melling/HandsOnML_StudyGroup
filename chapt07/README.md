@@ -1,5 +1,12 @@
 # Chapter 7: Ensemble Learning and Random Forests
 
+## Misc References
+
+- [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/07_ensemble_learning_and_random_forests.ipynb)
+- [StatQuest - Random Forests: Part 1](https://youtu.be/J4Wdy0Wc_xQ)
+- [StatQuest - Random Forests: Part 2](https://youtu.be/sQ870aTKqiM)
+- [StatQuest - AdaBoost](https://youtu.be/LsK-xG1cLYA)
+
 ## Topics Covered
 
 - Voting Classifiers

@@ -1,6 +1,10 @@
 # Chapter 3: Classification
 
-[Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)
+## Misc References
+
+- [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)
+- [StatQuest - The Confusion Matrix](https://youtu.be/Kdsp6soqA7o)
+- [StatQuest - ROC and AUC, Clearly Explained](https://youtu.be/4jRBRDbJemM)
 
 ## Study Group Notebooks
 

@@ -17,8 +17,6 @@ The study group works together and independently to support each other in the ef
 
 Self-paced and self-study is encouraged.  We meet regularly to discuss the material in the chapters.
 
-
-
 ## Group Notes, Notebooks, Exercises, etc
 
 - [Chapter02 - End-to-End Machine Learning Project](chapt02/README.md)

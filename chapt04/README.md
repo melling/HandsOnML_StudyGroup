@@ -1,11 +1,14 @@
 # Chapter 4: Training Models
 
-[Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb)
+## Misc References
+
+- [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb)
+- [StatQuest - Regularization Part 1: Ridge Regression L2](https://youtu.be/Q81RR3yKn30)
+- [StatQuest - Regularization Part 2: Lasso L1](https://youtu.be/NGf0voTMlcs)
 
 ## Study Group Notebooks
 
 - [Taraqur](https://colab.research.google.com/drive/1T9HshmZoh3JjlNDy3U3z5cf73-V9KOQU)
-
 
 ## Topics Covered
 
