@@ -46,14 +46,24 @@
 
 ### Q7.4 What is the benefit of out-of-bag evaluation?
 
+[Answer](q_7_4_ans.md)
+
 ***
 
 ### Q7.5 What makes Extra-Trees more random than regular Random Forests? How can this extra randomness help? Are Extra-Trees slower or faster than regular Random Forests?
+
+[Answer](q_7_5_ans.md)
 
 ***
 
 ### Q7.6 If your AdaBoost ensemble underfits the training data, which hyperparameters should you tweak and how?
 
+[Answer](q_7_6_ans.md)
+
 ***
 
 ### Q7.7 If your Gradient Boosting ensemble overfits the training set, should you increase or decrease the learning rate?
+
+[Answer](q_7_7_ans.md)
+
+***
