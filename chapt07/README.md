@@ -7,6 +7,10 @@
 - [StatQuest - Random Forests: Part 2](https://youtu.be/sQ870aTKqiM)
 - [StatQuest - AdaBoost](https://youtu.be/LsK-xG1cLYA)
 
+## Study Group Notebooks
+
+- [Taraqur](https://colab.research.google.com/drive/16zyYzu1NNgQ1TOFW4eKDxUbbI8AFIJsY)
+- [Taraqur Exercises](https://colab.research.google.com/drive/1GUhDagjeZkZwOJujWwrxj6Y6bTdjzmqO)
 ## Topics Covered
 
 - Voting Classifiers

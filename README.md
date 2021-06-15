@@ -25,3 +25,5 @@ Self-paced and self-study is encouraged.  We meet regularly to discuss the mater
 - [Chapter05 - Support Vector Machines](chapt05/README.md)
 - [Chapter06 - Decision Trees](chapt06/README.md)
 - [Chapter07 - Ensemble Learning and Random Forests](chapt07/README.md)
+- [Chapter08 - Dimensionality Reduction](chapt08/README.md)
+- [Chapter09 - Unsupervised Learning](chapt09/README.md)
