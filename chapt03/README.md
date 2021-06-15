@@ -21,8 +21,8 @@
   - The ROC Curve - (receiver operating characteristic)
 - Multiclass Classification
 - Error Analysis
-- Multilabel Classification
-- Multioutput Classification
+- Multi-label Classification
+- Multi-output Classification
 
 ## Book Questions
 

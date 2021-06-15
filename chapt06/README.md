@@ -6,9 +6,18 @@
 ## Study Group Notebooks
 
 - [Taraqur](https://colab.research.google.com/drive/11M2AQJx3Vo5oe4TlXWe0HftoK6DsMfkd)
+- [Lisa - Moon Question](https://colab.research.google.com/drive/1QkKb6afMsLqr_ZW4Icl8G1jEXtweE8AG)
 
 ## Topics Covered
 
+- Predictions
+  - Gini Impurity
+  - Entropy
+- Estimating Class Probabilities
+- CART Training Algorithm
+- Regularization Hyperparameters
+- Regression
+  - Instability
 
 ## Book Questions
 

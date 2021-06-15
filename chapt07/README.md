@@ -11,6 +11,7 @@
 
 - [Taraqur](https://colab.research.google.com/drive/16zyYzu1NNgQ1TOFW4eKDxUbbI8AFIJsY)
 - [Taraqur Exercises](https://colab.research.google.com/drive/1GUhDagjeZkZwOJujWwrxj6Y6bTdjzmqO)
+
 ## Topics Covered
 
 - Voting Classifiers
