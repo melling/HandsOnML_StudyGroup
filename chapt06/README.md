@@ -56,4 +56,3 @@
 ### 6. If your training set contains 100,000 instances, will setting speed up training?
 
 [Answer](q_6_6_ans.md)
-

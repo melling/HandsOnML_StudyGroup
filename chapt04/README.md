@@ -76,7 +76,7 @@
 
 [Answer](q_4_9_ans.md)
 
-### Q4.10 Why would you want to use:
+### Q4.10 Why would you want to use
 
 - a. Ridge Regression instead of plain Linear Regression (i.e., without any regularization)?
 - b. Lasso instead of Ridge Regression?
@@ -88,7 +88,7 @@
 
 [Answer](q_4_11_ans.md)
 
-### Q4.12 Implement Batch Gradient Descent with early stopping for Softmax Regression (without using Scikit-Learn).
+### Q4.12 Implement Batch Gradient Descent with early stopping for Softmax Regression (without using Scikit-Learn)
 
 To be implemented individually.
 

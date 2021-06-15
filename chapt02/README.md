@@ -23,7 +23,6 @@ Mean Scaling
 - Exploratory Data Analysis - EDA
   - Scatterplots
   - Histograms
-  - 
 - Data Wrangling
   - Imputation
 - Pipelines
@@ -48,7 +47,6 @@ Mean Scaling
 ## Exercises
 
 ### SVM
-
 
 ## Questions
 
