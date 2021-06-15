@@ -1,6 +1,10 @@
 # Chapter 2: End-to-End Machine Learning Project
 
-[Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb)
+[HOME](/README.md)
+
+## Misc References
+
+- [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb)
 
 ## Study Group Notebooks
 

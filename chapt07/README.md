@@ -1,5 +1,7 @@
 # Chapter 7: Ensemble Learning and Random Forests
 
+[HOME](/README.md)
+
 ## Misc References
 
 - [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/07_ensemble_learning_and_random_forests.ipynb)

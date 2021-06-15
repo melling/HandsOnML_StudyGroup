@@ -1,5 +1,7 @@
 # Chapter 4: Training Models
 
+[HOME](/README.md)
+
 ## Misc References
 
 - [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/04_training_linear_models.ipynb)

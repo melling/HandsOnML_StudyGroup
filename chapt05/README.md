@@ -1,6 +1,10 @@
 # Chapter 5: Support Vector Machines
 
-[Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/05_support_vector_machines.ipynb)
+[HOME](/README.md)
+
+## Misc References
+
+- [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/05_support_vector_machines.ipynb)
 
 ## Study Group Notebooks
 

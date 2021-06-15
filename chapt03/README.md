@@ -1,6 +1,6 @@
 # Chapter 3: Classification
 
-[HOME](../../../README.md)
+[HOME](/README.md)
 
 ## Misc References
 
