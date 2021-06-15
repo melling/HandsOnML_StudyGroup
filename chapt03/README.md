@@ -1,5 +1,7 @@
 # Chapter 3: Classification
 
+[HOME](../../README.md)
+
 ## Misc References
 
 - [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb)
