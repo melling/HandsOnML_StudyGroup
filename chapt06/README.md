@@ -1,6 +1,6 @@
 # Chapter 6: Decision Trees
 
-[HOME](../../../README.md)
+[HOME](/README.md)
 
 - [StatQuest Classification Tree video](https://youtu.be/_L39rN6gz7Y)
 - [StatQuest Regression Tree video](https://youtu.be/g9c66TUylZ4)
