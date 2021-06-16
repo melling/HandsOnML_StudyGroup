@@ -10,6 +10,38 @@
 
 ## Topics Covered
 
-
 ## Book Questions
 
+### Q8.1. What are the main motivations for reducing a dataset’s dimensionality? What are the main drawbacks?
+
+p300
+
+***
+
+### Q8.2. What is the curse of dimensionality?
+
+***
+
+### Q8.3. Once a dataset’s dimensionality has been reduced, is it possible to reverse the operation? If so, how? If not, why?
+
+***
+
+### Q8.4. Can PCA be used to reduce the dimensionality of a highly nonlinear dataset?
+
+***
+
+### Q8.5. Suppose you perform PCA on a 1,000-dimensional dataset, setting the explained variance ratio to 95%. How many dimensions will the resulting dataset have?
+
+***
+
+### Q8.6. In what cases would you use vanilla PCA, Incremental PCA, Randomized PCA, or Kernel PCA?
+
+***
+
+### Q8.7. How can you evaluate the performance of a dimensionality reduction algorithm on your dataset?
+
+***
+
+### Q8.8. Does it make any sense to chain two different dimensionality reduction algorithms?
+
+***
