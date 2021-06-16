@@ -10,6 +10,23 @@
 
 ## Topics Covered
 
+- Curse of Dimensionality
+- Main Approaches for Dimensionality Reduction
+- Projection
+  - PCA
+    - Preserving the Variance
+    - Principal Components
+    - Projecting Down to d Dimensions
+    - Explained Variance Ratio
+    - Choosing the Right Number of Dimensions
+  - PCA for Compression
+  - Randomized PCA
+  - Incremental PCA
+- Kernel PCA
+  - Kernel trick, again
+  - Selecting a Kernel and Tuning Hyperparameters
+  - Locally Linear Embedding - LLE
+
 ## Book Questions
 
 ### Q8.1. What are the main motivations for reducing a dataset’s dimensionality? What are the main drawbacks?
