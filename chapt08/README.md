@@ -6,6 +6,8 @@
 
 - [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/08_dimensionality_reduction.ipynb)
 - [StatQuest - Principal Component Analysis (PCA), Step-by-Step](https://youtu.be/FgakZw6K1QQ)
+- [StatQuest: PCA - Practical Tips](https://youtu.be/oRvgq966yZg)
+- [StatQuest: t-SNE, Clearly Explained](https://youtu.be/NEaUSP4YerM)
 
 ## Study Group Notebooks
 
