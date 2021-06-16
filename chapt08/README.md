@@ -4,6 +4,9 @@
 
 ## Misc References
 
+- [Author's Jupyter Notebook](https://github.com/ageron/handson-ml2/blob/master/08_dimensionality_reduction.ipynb)
+- [StatQuest - Principal Component Analysis (PCA), Step-by-Step](https://youtu.be/FgakZw6K1QQ)
+
 ## Study Group Notebooks
 
 - [Taraqur](https://colab.research.google.com/drive/1G74Vs4EnBBuIzN44SJ7fqQS-bP8p14fh)
@@ -12,8 +15,14 @@
 
 - Curse of Dimensionality
 - Main Approaches for Dimensionality Reduction
+  - Projection
+  - Manifold Learning
+    - Manifold hypothesis
+    - task will be simpler if expressed in the lower-dimensional space of the manifold
+    - Locally Linear Embedding - LLE
 - Projection
   - PCA
+    - Identifies the hyperplane that lies closest to the data, and then it projects the data onto it
     - Preserving the Variance
     - Principal Components
     - Projecting Down to d Dimensions
@@ -25,7 +34,6 @@
 - Kernel PCA
   - Kernel trick, again
   - Selecting a Kernel and Tuning Hyperparameters
-  - Locally Linear Embedding - LLE
 
 ## Book Questions
 
